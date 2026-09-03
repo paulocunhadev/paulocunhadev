@@ -1,24 +1,32 @@
-# Olá, eu sou o Paulo! 🛠️🎲
+# Olá, eu sou o Paulo Brancalhão Cunha 👋
 
-Desenvolvedor apaixonado por **Sistemas Complexos**, **Simulações** e **RPG de Mesa**. 
-Com sólida base em **C++** e **C#**, foco meu trabalho na criação de arquiteturas robustas e lógicas sistêmicas, desde o desenvolvimento de APIs escaláveis com **ASP.NET Core** até a criação de mods para Minecraft.
-
----
-
-### 🚀 Interesses & Projetos
-- **Arquitetura de Sistemas:** Desenvolvimento de motores de lógica e geradores procedurais (como motores de Quests baseados em contexto).
-- **Simulações de Engenharia:** Entusiasta de lógicas inspiradas em *Oxygen Not Included* e *Space Engineers*.
-- **Modding:** Desenvolvimento em **Java** para personalização e criação de novas mecânicas de gameplay.
-
-### 🛠️ Tecnologias e Ferramentas
-- **Linguagens:** C++, C#, Java, JavaScript, Python.
-- **Frameworks:** ASP.NET Core, Entity Framework, Blazor.
-- **Ferramentas:** VS Code, Git, Docker, Terminal/CLI.
-
-### 🎨 O Toque Artístico
-Além da programação, desenvolvo minha própria **identidade visual baseada em tokens** para RPG. Acredito que a união entre um sistema funcional e uma estética imersiva é o que define um projeto de excelência.
+Desenvolvedor de Software especializado na construção de **Sistemas Web, Arquiteturas Robustas e Lógicas Complexas**. Tenho forte atuação no ecossistema **.NET (C#)** e **TypeScript / React**, além de vasta experiência com geradores sistêmicos, automações e simulações.
 
 ---
 
-📫 **Como me encontrar:**
-📧 [paulojamel22@gmail.com](mailto:paulojamel22@gmail.com)
+### 🚀 O que eu desenvolvo
+- **Aplicações Web & APIs:** Arquiteturas escaláveis e de alta performance com **ASP.NET Core / .NET 10**, Entity Framework, Node.js e FastAPI.
+- **Interfaces Front-end Modernas:** Dashboards corporativos, portais e sistemas web reativos utilizando **React, TypeScript, Zustand e Tailwind CSS**.
+- **Motores de Lógica & Simulações:** Desenvolvimento de geradores procedurais, algoritmos de contexto (como motores de quests) e integração de sistemas dinâmicos.
+- **Modding & Ferramentas de Extensão:** Criação de módulos sob medida para plataformas VTT (Virtual Tabletop), automações e mods em **Java** e **JavaScript**.
+
+---
+
+### 🛠️ Stacks & Tecnologias
+
+- **Linguagens:** C#, TypeScript, JavaScript, Python, C++, Java.
+- **Back-end:** ASP.NET Core (.NET 10), FastAPI, Node.js / Express, REST APIs, GraphQL.
+- **Front-end:** React, Next.js, Tailwind CSS, Bootstrap, Razor Pages / CSHTML.
+- **Banco de Dados & ORMs:** PostgreSQL, SQL Server, MySQL, SQLite, Entity Framework Core, Prisma.
+- **Ferramentas & Práticas:** Git, Docker, Visual Studio, VS Code, Linux/CLI, CI/CD.
+
+---
+
+### 🎲 Projetos Pessoais & Criatividade
+Além do desenvolvimento de software corporativo, dedico meu tempo à criação de ferramentas para RPG de mesa, ecossistemas de simulação e design visual de tokens/interfaces. Acredito que a união entre **arquitetura limpa**, **usabilidade** e **estética imersiva** é o que entrega produtos de excelência.
+
+---
+
+📫 **Vamos conversar?**
+- 💼 **LinkedIn:** [Paulo B. Cunha](https://www.linkedin.com/in/paulobcunha)
+- 📧 **E-mail:** [paulobcunha1990@gmail.com](mailto:paulobcunha1990@gmail.com)
